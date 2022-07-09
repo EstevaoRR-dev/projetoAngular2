@@ -1,0 +1,14 @@
+.caixa-gatos{
+  width: 75%;
+  margin: 20px auto;
+  border: solid 2px black;
+  box-sizing: border-box;
+  padding: 15px;
+  background: gray;
+}
+
+.imagens{
+  width: 30%;
+  height: 250px;
+  margin: 10px 10px;
+}
